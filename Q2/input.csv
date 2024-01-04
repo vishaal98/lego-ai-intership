@@ -1,0 +1,12 @@
+sno,product_code,size,color,price
+1,"P12XM1","s", "red", 120
+1,"P12XM1","s", "green", 120
+1,"P12XM1","s", "blue", 120
+1,"P12XM1","m", "red", 130
+1,"P12XM1","m", "green", 130
+1,"P12XM1","m", "blue", 130
+1,"P12XM1","l", "red", 150
+1,"P12XM1","l", "green", 150
+1,"P12XM1","l", "blue", 150
+2,"P12XM2","s", "red", 130
+2,"P12XM2","l", "red", 160
